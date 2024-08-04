@@ -13,7 +13,6 @@ Glass containers are widely used in daily life, but existing defect detection me
 
 
 
-![Contribution](https://github.com/hellozzk/GCD.github.io/blob/main/img/Contribution.png#pic_center)
 
 
 ![Relationship between different defect](https://github.com/hellozzk/GCD.github.io/blob/main/img/Rekationship.png#pic_center)
