@@ -1,101 +1,42 @@
-# Project name.
+README.md Sample
+Github项目README.md模板 README作为说明文件，作用是让浏览者快速、鸟瞰式地了解项目。 为了做到这点，写README的时候应该注意层次和格式，用Markdown书写为佳。 一般至少包含三大部分，第一是介绍项目背景和用处，第二是使用方法（包括导入/安装，暴露的调用接口等），第三遵守的协议。
 
-Large-scale polarization-RGB defect detection dataset for glass containers
+具体可以参照这份模板，模板本身已放到Github。
 
-## Dataset statistics
+项目名称
+关于我，欢迎关注
+博客：一旬一题 掘金：https://juejin.im/user/57ff552d5bbb50005b4e9ef9  
 
-| Class            | bubble              | oil                   | Plastering thread         | Black spot        | Quenched grain               |
-|------------------|---------------------|-----------------------|---------------------------|-------------------|------------------------------|
-| S                | 22905               | 3279                  | 2239                      | 19463             | 3104                         |
-| M                | 823                 | 2142                  | 3850                      | 219               | 2610                         |
-| L                | 572                 | 6489                  | 13356                     | 188               | 2066                         |
-| Feature describe | bright round hollow | dark irregular shapes | Irregular striped pattern | dark round shapes | blurred and irregular shapes |
+持续关注和分享：Android 性能调优、单元测试和重构、实用中间件、各种好玩的特效和黑科技、和小众刁钻没卵用需求的折腾记录。 (如果你想打造个人品牌，把自己的介绍放在这里也是可以的)
 
-# Project Title
+Github项目README.md模板
+（项目背景/作用介绍）
 
-One Paragraph of project description goes here
+示例:
+把使用了该项目的案例放在这里。可以放APK下载链接，或者简单放几张截图。
+（示例一开始就放出来，方便浏览者一眼就看出是不是想找的东西）
 
-## Getting Started
+特性（可选）
+特性A
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+特性B
 
-### Prerequisites
+###原理说明（可选） 阐述项目是基于什么思路设计的
 
-What things you need to install the software and how to install them
+下载安装
+Gradle:
 
-/```
-Give examples
-/```
+compile 'xxx'
+(说明项目的配置方法，android开源库多用Gradle导入)
 
-### Installing
+使用方法
+怎么使用，有哪些步骤哪些接口。
 
-A step by step series of examples that tell you how to get a development env running
+注意事项
+比如混淆方法等
 
-Say what the step will be
+TODO（可选）
+接下来的开发/维护计划。
 
-/```
-Give the example
-/```
-
-And repeat
-
-/```
-until finished
-/```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-/```
-Give an example
-/```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-/```
-Give an example
-/```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+License
+遵守的协议
