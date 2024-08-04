@@ -1,6 +1,9 @@
 # Project name.
+
 Large-scale polarization-RGB defect detection dataset for glass containers
+
 ## Dataset statistics
+
 |Class|bubble|oil|Plastering thread|Black spot|Quenched grain|
 |-|-|-|-|-|-|
 |S| 22905|3279| 2239| 19463| 3104|
