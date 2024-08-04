@@ -1,0 +1,9 @@
+# Project name.
+Large-scale polarization-RGB defect detection dataset for glass containers
+## Dataset statistics
+|Class|bubble|oil|Plastering thread|Black spot|Quenched grain|
+|-|-|-|-|-|-|
+|S| 22905|3279| 2239| 19463| 3104|
+|M| 823| 2142|3850|219|2610|
+|L| 572| 6489| 13356|188|2066|
+| Feature describe| bright round  hollow | dark irregular  shapes | Irregular striped  pattern | dark round  shapes | blurred and irregular shapes|
