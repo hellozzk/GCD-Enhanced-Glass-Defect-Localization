@@ -24,9 +24,11 @@ GPU: NVIDIA 3090   CPU: Intel i7-12700KF      Running Memory: 64GB+      PyTorch
 
 Command: pip install -r requirements.txt
 
+
+
 ## Multi-GPU Run train on GCD-Part-1
 
-python -m torch.distributed.run --nproc_per_node 4 --master_port 1 train.py  --data /data/GCD-Part-1.yaml ----cfg /modles/IDFE-Net-Enhanced version.yaml --epochs 300 --img 640 --device 0,1,2,3
+python -m torch.distributed.run --nproc_per_node 4 --master_port 1 train.py  --data /data/GCD-Part-1.yaml --cfg /modles/IDFE-Net-Enhanced version.yaml --epochs 300 --img 640 --device 0,1,2,3
 
 ## single-GPU Run train
 
