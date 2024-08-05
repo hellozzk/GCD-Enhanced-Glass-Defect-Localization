@@ -1,8 +1,0 @@
-train: D:\\master\\Dataset\\wood\\train.txt
-val: D:\\master\\Dataset\\wood\\val.txt
-test: D:\\master\\Dataset\\wood\\test.txt
-
-# Classes
-
-nc: 8  # number of classes
-names: ['Quartzity','LiveKnot' ,'Marrow' , 'resin', 'DeadKnot', 'knotwithcrack','Knot_missing' ,'Crack']  # class names

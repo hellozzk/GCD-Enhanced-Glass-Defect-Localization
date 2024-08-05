@@ -1,5 +1,0 @@
-nc: 5
-# class names
-names: ['oil', 'black spot', 'bubble', 'plastering thread', 'Quenched grain']
-train: D:\master\Dataset\bot\images\train_add  # train images (relative to 'path') 118287 images
-val: D:\master\Dataset\bot\images\val_add # val images (relative to 'path') 5000 images
