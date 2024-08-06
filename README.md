@@ -19,6 +19,9 @@ Glass containers are widely used in daily life, but existing defect detection me
 
 ![GCD samples](https://github.com/hellozzk/GCD.github.io/blob/main/img/GCDsample.png#pic_center)
 
+## Code
+The code has been open-sourced, and users can choose between the basic version and the more powerful version IDFE-Net.
+
 ## Requirements
 GPU: NVIDIA 3090   CPU: Intel i7-12700KF      Running Memory: 64GB+      PyTorch 1.11.0      Python 3.8
 
